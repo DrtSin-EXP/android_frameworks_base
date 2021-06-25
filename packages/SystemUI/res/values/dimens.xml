@@ -574,6 +574,8 @@
     <!-- Desired qs icon overlay size. -->
     <dimen name="qs_detail_icon_overlay_size">24dp</dimen>
 
+    <dimen name="qs_media_corner_radius">8dp</dimen>
+
     <dimen name="segmented_button_spacing">0dp</dimen>
     <dimen name="borderless_button_radius">2dp</dimen>
 
